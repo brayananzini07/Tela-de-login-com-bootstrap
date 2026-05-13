@@ -1,0 +1,2 @@
+<img width="698" height="449" alt="image" src="https://github.com/user-attachments/assets/874b04ab-4cec-40b9-9859-01ec44652e7f" />Descrição da atividade: Desenvolver uma tela de login estática utilizando o framework Bootstrap, aplicando conceitos de estruturação HTML e estilização com classes prontas. Criação de uma interface de login (apenas visual, sem funcionamento de backend).
+<img width="698" height="449" alt="Captura de tela 2026-05-13 081826" src="https://github.com/user-attachments/assets/ff2c9f07-6fb7-447a-9994-5fb7b12eacfa" />
